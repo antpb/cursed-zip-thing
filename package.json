@@ -10,7 +10,12 @@
   },
   "devDependencies": {
     "@cloudflare/vitest-pool-workers": "^0.5.2",
-    "wrangler": "^3.60.3",
-    "vitest": "2.0.5"
+    "vitest": "2.0.5",
+    "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "is-my-json-valid": "^2.20.6",
+    "jsonschema": "^1.4.1",
+    "jszip": "^3.10.1"
   }
 }
